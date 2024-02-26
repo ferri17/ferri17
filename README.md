@@ -7,8 +7,14 @@ I'm currently studying at 42 Barcelona, a project-oriented computer science scho
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferri17&layout=compact)
 
 ### You can check some of the projects I have been working on here 🔭
+* [Libft](https://github.com/ferri17/libft) Personal library that re-creates some of libc functions.
+* [Minishell](https://github.com/ferri17/minishell) My own shell using bash as reference.
+* [Minirt](https://github.com/ferri17/miniRT) CPU raytracer written in C from scratch.
+* [Fdf](https://github.com/ferri17/FdF) 3D wireframe model representation of a topographic map sent as input.
+* [Push swap](https://github.com/ferri17/push_swap) Sort a stack with the help of a secondary stack.
+* [CPP Modules](https://github.com/ferri17/CPP_Modules) A set of modules to learn OOP and transition from C to C++.
 
-### You can also find me on Codewars, where I like to solve some problems on my free time 🔭
+### You can also find me on Codewars, where I like to solve some problems on my free time 💡
 
 [![Code Wars Badge](https://www.codewars.com/users/Ferran%20Bosch/badges/large)](https://www.codewars.com/users/Ferran%20Bosch)
 <!--
