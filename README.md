@@ -13,6 +13,7 @@ I'm currently studying at 42 Barcelona, a project-oriented computer science scho
 * [Fdf](https://github.com/ferri17/FdF) 3D wireframe model representation of a topographic map sent as input.
 * [Push swap](https://github.com/ferri17/push_swap) Sort a stack with the help of a secondary stack.
 * [CPP Modules](https://github.com/ferri17/CPP_Modules) A set of modules to learn OOP and transition from C to C++.
+* [Inception](https://github.com/ferri17/inception) Docker infrastructure consisting of 3 connected containers, Wordpress, MariaDB and NGINX.
 
 ### You can also find me on Codewars, where I like to solve some problems on my free time 💡
 
